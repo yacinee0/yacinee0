@@ -3,10 +3,11 @@ I'm a **Computer Science student** and a passionate **software developer**.
 Currently diving into the world of **full-stack development**, **Spring Boot**, and **MERN stack**!
 
 ---
+
 ## 🧠 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yacinee0&theme=tokyonight&hide_border=true" alt="yacinee0's GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=yacinee0&theme=tokyonight&hide_border=true" alt="yacinee0's GitHub streak"/>
 </p>
 
 ## 🌐 Connect with Me
