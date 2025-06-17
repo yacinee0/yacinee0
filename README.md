@@ -7,7 +7,15 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
 ![yacinee0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yacinee0&show_icons=true&theme=tokyonight)
 
 ---
+## 🧠 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yacinee0&theme=tokyonight&hide_border=true" alt="yacinee0's streak stats"/>
+</p>
+
+## 📈 Contribution Graph
+
+[![yacinee0's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yacinee0&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
 
