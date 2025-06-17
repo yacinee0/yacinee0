@@ -5,10 +5,9 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
 ## 📈 GitHub Stats
 
 ![yacinee0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yacinee0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinee0&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Let's Connect!
 
-[![Email](yacineked00@gmail.com)  
+[![LinkedIn](www.linkedin.com/in/yacine-kedjour-5b8313310)  
