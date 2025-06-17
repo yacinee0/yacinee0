@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm a **Computer Science student** and a passionate **software developer**.  
+Currently diving into the world of **full-stack development**, **Spring Boot**, and **MERN stack**!
 
-<!--
-**yacinee0/yacinee0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
 
-Here are some ideas to get you started:
+![yacinee0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yacinee0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacinee0&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Let's Connect!
+
+[![Email](yacineked00@gmail.com)  
