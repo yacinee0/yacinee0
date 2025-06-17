@@ -10,5 +10,6 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Kedjour-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yacine-kedjour/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yacine%20Kedjour-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yacine-kedjour-5b8313310/)
 
+---
