@@ -10,6 +10,13 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yacine-kedjour-5b8313310/)
-[![Gmail](https://img.shields.io/badge/Email-yacineked000@gmail.com-red?style=flat-square&logo=gmail)](mailto:yacineked000@gmail.com)
----
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yacine-kedjour-5b8313310/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:yacineked000@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+  </a>
+</p>
