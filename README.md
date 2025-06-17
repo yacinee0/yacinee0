@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yacine Kedjour</h1>
+
 I'm a **Computer Science student** and a passionate **software developer**.  
 Currently diving into the world of **full-stack development**, **Spring Boot**, and **MERN stack**!
 
