@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Yacine</h1>
 
-I'm a **Computer Science student** and a passionate **software developer**.  
-Currently diving into the world of **full-stack development**, **Spring Boot**, and **MERN stack**!
+<p align="center">
+  <em>I'm a **Computer Science student** and a passionate **software developer**.  
+Currently diving into the world of **full-stack development**, **Spring Boot**, and **MERN stack**!</em>
+</p>
 
 ---
 ## 🧠 GitHub Streak
