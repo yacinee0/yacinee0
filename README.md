@@ -6,7 +6,7 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
 ## 🧠 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yacinee0&theme=tokyonight&hide_border=true" alt="yacinee0's streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=kedjour yacine&theme=tokyonight&hide_border=true" alt="yacinee0's streak stats"/>
 </p>
 
 ## 🌐 Connect with Me
