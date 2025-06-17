@@ -8,8 +8,7 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
 
 ---
 
-## 🌐 Let's Connect!
-
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yacine-kedjour-5b8313310/" target="_blank">
@@ -17,6 +16,7 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
   </a>
   &nbsp;&nbsp;
   <a href="mailto:yacineked000@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="30" height="30"/>
   </a>
 </p>
+
