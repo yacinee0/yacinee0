@@ -10,4 +10,4 @@ Currently diving into the world of **full-stack development**, **Spring Boot**, 
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](www.linkedin.com/in/yacine-kedjour-5b8313310)  
+[![LinkedIn]([www.linkedin.com/in/yacine-kedjour-5b8313310](https://www.linkedin.com/in/yacine-kedjour-5b8313310/))  
